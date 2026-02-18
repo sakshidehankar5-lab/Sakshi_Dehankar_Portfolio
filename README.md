@@ -2,7 +2,7 @@
 
 A modern, responsive personal portfolio website showcasing my skills, projects, education, and experience as a **BCA Graduate | Python & Web Developer**.
 
-🔗 **Live Website:** *(Add your GitHub Pages link here)*
+🔗 **Live Website:** *(https://sakshidehankar5-lab.github.io/Sakshi_Dehankar_Portfolio/)*
 📂 **Repository:** This repository
 
 ---
